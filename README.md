@@ -4,10 +4,10 @@ The following are the project contained in this portfolio and their description
 1. Automatic Result Sheet Generator (Excel + VBA)
 "Developed an automated result sheet system using Excel and VBA to simplify score entry, calculation of totals, averages, grades, and class rankings, designed for easy print-ready reporting in educational institutions."
 
-2. Telecom Billing Analysis
+2. Telecom Billing Analysis (Excel + VBA)
 "Analyzed client and vendor billing data from telecom services. Calculated total client billings, gross margins by client, country, carrier, and number, simulated pricing changes, and provided insights and recommendations for margin improvement, using advanced Excel functions."
 
-3. Sales and Product Analysis (Power BI Project)
+3. Sales and Product Analysis (SQL and Power BI Project)
 "Performed sales and product analysis using Excel and Power BI. Summarized product counts, sales amounts, top-performing suppliers and categories, and created an interactive dashboard to visualize sales trends and revenue contributors."
 
 4. Curriculum Implementation Survey Analysis (KoboToolbox, SPSS, Excel)
