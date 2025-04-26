@@ -20,11 +20,19 @@ Microsoft Excel – for data cleaning, transformation, and visualization
 🗂 Files Included
 Raw Data.csv – Exported dataset from KoboToolbox
 
-Cleaned Data.sav – Processed and coded data in SPSS
+FACILITATORS DATASET.sav- Dataset from facilitators' questionnaire coded in SPSS
 
-Descriptive Analysis.xlsx – Aggregated summaries and charts
+LEARNERS DATASET.sav - Dataset from learners' questionnaire coded in SPSS
 
-Executive Summary.pdf – Summary report of key findings
+COMBINED DATASET FOR CORRELATION.sav- Facilitator's and learners' dataset combined for correlation analysis purpose
+
+QUESTIONNAIRE ON MONITORING.docx- Questionnaire developed for the survey, which was then transfered into kobo collect form.
+
+CLEANED DATA – Processed in Excel
+
+ANALYSIS RESULT IMPORTED FROM SPSS.xlsx – SPSS analysis result
+
+EXECUTIVE SUMMARY.docx – Summary report of key findings
 
 README.md – Documentation
 
