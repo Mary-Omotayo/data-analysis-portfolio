@@ -1,5 +1,5 @@
 # data-analysis-portfolio
-These are the collections of Data Analysis projects
+These are the collections of my Data Analysis projects. 
 The following are the project contained in this portfolio and their description
 1. Automatic Result Sheet Generator (Excel + VBA)
 "Developed an automated result sheet system using Excel and VBA to simplify score entry, calculation of totals, averages, grades, and class rankings, designed for easy print-ready reporting in educational institutions."
